@@ -1,2 +1,2 @@
-# Ashoka
-Projects Done at Ashoka
+
+Course Materials and Projects for courses at Ashoka
