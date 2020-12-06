@@ -17,3 +17,5 @@ for line in file:
 
 print(male)
 print(female)
+
+	

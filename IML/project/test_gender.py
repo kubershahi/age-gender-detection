@@ -1,7 +1,7 @@
 import os.path
 from os import path
 
-fread = open('prediction.txt', 'r')
+fread = open('gender_prediction.txt', 'r')
 fwrite = open('test_gender.txt',"w+")
 
 female = 0 
