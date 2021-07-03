@@ -1,4 +1,6 @@
-Age and Gender Detection Project for IML course at Ashoka
+# IML Course Project: Age and Gender Detection
+
+### Implementation Details
 
 - Trained two Convulational Neural Networks (CNNs) to recognize age and gender of a valid human facial images: one CNN for age detection, and one for gender detection.
 - Dataset used: Adience Dataset - https://talhassner.github.io/home/projects/Adience/Adience-data.html 
